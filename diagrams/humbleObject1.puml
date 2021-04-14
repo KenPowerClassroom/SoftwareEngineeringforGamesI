@@ -1,0 +1,39 @@
+@startuml
+allow_mixing
+
+skinparam componentStyle rectangle
+
+interface SFML{
+RenderWindow
+Font
+Texture
+Sprite
+draw()
+loadImage()
+ 
+}
+
+interface I_O_System{
+ std::cin
+ std::cout
+ >>()
+ <<()
+ fstream
+ open()
+}
+
+interface Runtime{
+ time()
+ random()
+}
+
+
+
+cloud application_boundary{
+component MyGameObject
+}
+
+MyGameObject-up-> SFML 
+MyGameObject-down-> I_O_System
+MyGameObject-left-> Runtime
+@enduml
