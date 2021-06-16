@@ -108,6 +108,9 @@ implemented. At each iteration, design modifications are made and new functional
 - only valuable work is done 
 
 
+# Iterative vs Incremental
+
+![image](https://user-images.githubusercontent.com/105429/122209054-fde79f00-ce9b-11eb-86c5-27ca260639f8.png)
 
 
 
