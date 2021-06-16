@@ -29,7 +29,7 @@ Notice:
 
 An SLDC is a way to organise, sequence and prioritise these workphases.
 
-It't might seem natural that an SLDC follow the same waterfall pattern as the house building example given earlier. But it turns out that tere are better ways of doing things.
+It't might seem natural that an SLDC follow the same waterfall pattern as the house building example given earlier. But it turns out that there are better ways of doing things.
 
 # Overview of different SDLC philosophies
 
