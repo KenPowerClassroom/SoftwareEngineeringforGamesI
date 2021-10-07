@@ -5,7 +5,7 @@ A software delvelopment life cyle(SDLC) is a process for planning, creating, tes
 An SDLC is  composed of a number of clearly defined and distinct __work phases__ which are used by engineers and 
 developers to plan for, design, build, test, and deliver software systems.
 
-## Example DLC for house construction
+## Example SDLC for house construction
 
 ![image](https://user-images.githubusercontent.com/105429/122201264-c674f480-ce93-11eb-959a-79d7caf7636d.png)
 
@@ -29,11 +29,11 @@ Notice:
 
 An SLDC is a way to organise, sequence and prioritise these workphases.
 
-It't might seem natural that an SLDC follow the same waterfall pattern as the house building example given earlier. But it turns out that there are better ways of doing things.
+It't might seem natural that an SDLC follow the same waterfall pattern as the house building example given earlier. But it turns out that there are better ways of doing things.
 
 # Overview of different SDLC philosophies
 
-There have been a large number of SLDCs proposed and used, but the generally fal in to a small number of 'philosophies'.
+There have been a large number of SDLCs proposed and used, but the generally fall in to a small number of 'philosophies'.
 
 ## Unstructured SDLC
 
