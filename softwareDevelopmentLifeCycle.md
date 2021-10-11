@@ -85,7 +85,7 @@ implemented. At each iteration, design modifications are made and new functional
 - Incremental = dividing the project into small chunks that can be delivered
 - Evolutionary = process itself changes and evolves as the team learns about the system and themsleves
 
-## exampe agile processes
+## example agile processes
 
 - scrum - focus on project management
 - XP - focus on quality code
