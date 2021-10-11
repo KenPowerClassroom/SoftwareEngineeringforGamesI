@@ -82,7 +82,7 @@ implemented. At each iteration, design modifications are made and new functional
 # Iterative, Incremental & Evolutionary - (generally refered to as Agile)
 
 - Iterative = revisiting delivered work to improve/enhance it
-- Incremental = dividing the project into small chuncks that can be delivered
+- Incremental = dividing the project into small chunks that can be delivered
 - Evolutionary = process itself changes and evolves as the team learns about the system and themsleves
 
 ## exampe agile processes
@@ -102,10 +102,10 @@ implemented. At each iteration, design modifications are made and new functional
 
 # contrast with iterative methods
 
-- no one process works for every project,team needs to discover what works for this project
-- not every feature has same priority, delay delivery of unimportnat features 
-- inceremntal & iterative approach allow very quick delivery cycles
-- only valuable work is done 
+- no one process works for every project, team needs to discover what works for this project
+- not every feature has same priority, delay delivery of unimportant features 
+- inceremental & iterative approach allow very quick delivery cycles - feedback from users is key
+- only valuable work is done - discovering what is valuable is not always easy  
 
 
 # Iterative vs Incremental
