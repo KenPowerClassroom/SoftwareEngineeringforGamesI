@@ -66,11 +66,8 @@ than if they’d caught the mistake while they were still working on the initial
 And unlike a missed stitch in a sweater, this problem is much harder to pinpoint; the programmers will see only that errors are appearing, and these might have several causes. Even after the original error is corrected, they’ll need to change other calculations and documentation and then retest every step.
 In fact, studies have shown that software specialists spend about 40 to 50 percent of their time on avoidable rework rather than on what they call value-added work, which is basically work that’s done right the first time. Once a piece of software makes it into the field, the cost of fixing an error can be 100 times as high as it would have been during the development stage.
 If errors abound, then rework can start to swamp a project, like a dinghy in a storm. What’s worse, attempts to fix an error often introduce new ones. It’s like you’re bailing out that dinghy, but you’re also creating leaks. If too many errors are produced, the cost and time needed to complete the system become so great that going on doesn’t make sense.
-In the simplest terms, an IT project usually fails when the rework exceeds the value-added work that’s been budgeted for. 
+In the simplest terms, an IT project usually fails when the rework cost exceeds the value-added work that’s been budgeted for. 
 
-This is what happened to Sydney Water Corp., the largest water provider in Australia, when it attempted to introduce an automated customer information 
-and billing system in 2002. According to an investigation by the Australian Auditor General, among the factors that
-doomed the project were inadequate planning and specifications, which in turn led to numerous change requests and significant added costs and delays. 
-Sydney Water aborted the project midway, after spending AU $61 million (US $33.2 million).
+
 
 Adapted from https://spectrum.ieee.org/computing/software/why-software-fails
