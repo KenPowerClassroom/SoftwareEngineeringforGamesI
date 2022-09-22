@@ -70,4 +70,45 @@ In the simplest terms, an IT project usually fails when the rework cost exceeds 
 
 
 
-Adapted from https://spectrum.ieee.org/computing/software/why-software-fails
+Adapted from https://spectrum.ieee.org/computing/software/why-software-fails (pdf in reading folder)
+
+
+# Definition of Software Failure Process (A. Nı̇zam, "Software Project Failure Process Definition," in IEEE Access, vol. 10, pp. 34428-34441, 2022, doi: 10.1109/ACCESS.2022.3162878.) (pdf in reading folder)
+
+### Steps of a failure process
+
+#### Early warning signs arise; however, there is no visible indication of failure. The project team does not understand the overall problem and ignores warnings. 
+
+#### In the rejecting deviations phase, the significant deviation is visible to the team; however, the majority of members do not accept the importance of the problem and tend to mask the problem hoping to overcome it without attracting the scrutiny of executives and other stakeholders 
+
+#### When deviation from the schedule exceeds the nominal limits, the team loses control and unconsciously attempts to rescue the project. 
+
+#### Escalating failure occurs when the team continues to invest even through negative events and missed results. 
+
+#### After a long unproductive escalation cycle, the project loses the support of clients or sponsors, causing its termination.
+
+We prefer the term “the software project failure process” to express the process leading a project to failure. Another possible term may be inspired by nature, such as the waterfall process as “the swamping process”. The more you struggle unconsciously, the more you sink until you drown. More importantly, you will lose your chance to rescue.
+
+1) Ignoring Warnings
+This phase refers to a situation in which the software team underestimates or ignores warning signs and the initial emergence of deviations, leading to project failure in the future. Brooks asked the question, “How does a large software project get to be one year late?” and answered it as “One day at a time! Incremental slippages on many fronts eventually accumulate to produce a large overall delay”. 
+
+All project tasks are linked in a complex decision network; thus, total failure can be initiated by the first wrongdoing in the tasks and/or decisions that aggregate and accumulate into more critical problems.
+
+Early warning signs arise as predictions, cautions, or alerts to possible or impending problems. They provide an assessment of risks, future difficulties, and failures during project development. They do not directly represent a major crisis but indicate a need for further investigation to prevent the start of a mistake series. The dynamic and multifactorial nature of many software project problems may prevent immediate or even timely identification of root causes. Moreover, the intangible nature of software makes it difficult to estimate the proportion of work that has been completed [77]. Project managers are often missing the appropriate response to early warnings in many cases [80].
+
+2) Rejecting Deviations
+In this phase, the project team intentionally rejects problems or withholds bad news about the project status, as the scale and visibility of deviation increase. The reluctance of people to report bad news about a troubled project is called the “Mum Effect” [77]. This could be a major contributor to the phenomenon of uncontrollable (runaway) software projects. As a passive version of rejecting deviation, it may disrupt communication between team members and occurs very frequently. Snow et al. claimed that biased, generally optimistic status reporting occurs in more than 60 percent of projects.
+
+3) Losing Control
+The losing control phase represents the unconscious attempts of a software team to rescue a project after skipping an important milestone or finish date. It is similar to the crunch mode reported in the literature. Aas the date to deliver the slipping milestone approached, teams tried to compensate for the lost time by forcing a team to work more days and hours per week, developers sleeping on the floor for days on end. The exhaustion leads to more bugs that need to be fixed and causes wasting even more time. The delay may affect the management to initiate multiple forms of coping strategies aiming for the same goal: ownership problems, no owner or more than one owner can create political fighting and convert a small problem into a big issue; moreover, team members may be firefighting with or even withholding their problems without considering how these problems might create other problems. The team members stop moving according to the plan and try to catch the schedule unconsciously by focusing on only their tasks.
+
+4) Escalating Failure
+Escalating failure is  “continued commitment against negative information” and “an escalation cycle starts following a series of negative project events and the commitment of more resources when decision-makers neither decide to abandon the project nor take corrective actions despite unambiguous negative feedback”. Keil et al. [86] used it to explain “troubled projects were continued instead of being abandoned or redirected”. According to Keil and Mann [87], 30–40 percent of all information system (software) projects involve some degree of project escalation, the average escalation time is 21 months, and less than 25 percent of the escalated projects are completed or implemented. The causes of escalation are more than simple mismanagement of projects and can be psychological, social, and organizational [87].
+
+5) Losing Support
+This phase refers to losing support of customers, managers, or other stakeholders because the development process does not meet their requirements and expectations on time. The key reason is the loss of sponsorship support in 80 percent of project abandonment [37] similar to our findings. The management of stakeholders leads a project to success or failure [14]. The withdrawal of a sponsor or stakeholder already contributing to the project has a more detrimental effect on perceptions of project success than starting without a sponsor [88]. Without the strong support of the organization’s managers and sponsor commitment, developers perceive little chance of project success [88], [89].
+
+6) Ending Project
+If there is no way for a project to be completed, the terminating project is natural and even healthy [90]. In this phase, the business goal shifts to terminate the project with minimal losses. The primary actions are preparing a termination plan, managing public relations crises, and learning from failures.
+
+
