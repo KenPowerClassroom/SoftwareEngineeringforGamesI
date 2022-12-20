@@ -140,13 +140,13 @@ Agile has fewer internal work products
 
 Design change in WF means more already-done work products changing
 
-Earlier delivery = ealrier ROI
+Earlier delivery = earlier ROI
 
 Can change process more quickly
 
-Can stop early when we decide we habe done enough
+Can stop early when we decide we have done enough
 
 Deliver what is needed
 
-"We didn't egt what we asked for , but got wht we needed"
+"We didn't get what we asked for , but got what we needed"
 
