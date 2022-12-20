@@ -113,4 +113,40 @@ implemented. At each iteration, design modifications are made and new functional
 ![image](https://user-images.githubusercontent.com/105429/122209054-fde79f00-ce9b-11eb-86c5-27ca260639f8.png)
 
 
+# Agile vs Waterfall
+
+## Why Agile is less efficient than Waterfall
+
+Consensus buikding takes more thie than centralised decision making
+
+Agile appears to have less predicability than WF
+
+Agile requires more mature teams
+
+WF has better utilisation of resources
+  Specialists only present when needed
+  iterations => rework
+  
+Agile take smore time to set-up
+
+WF simplifies Architectural Consistency (agile evolves it)
+
+## Agile is more efficient/effective than Waterfall
+
+(efficient in short term)
+(effective in long term)
+
+Agile has fewer internal work products
+
+Design change in WF means more already-done work products changing
+
+Earlier delivery = ealrier ROI
+
+Can change process more quickly
+
+Can stop early when we decide we habe done enough
+
+Deliver what is needed
+
+"We didn't egt what we asked for , but got wht we needed"
 
