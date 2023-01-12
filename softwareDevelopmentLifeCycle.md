@@ -66,6 +66,8 @@ implemented. At each iteration, design modifications are made, and new functiona
 ![image](https://user-images.githubusercontent.com/105429/122206163-fa064d80-ce98-11eb-9044-fc19c24472e9.png)
 
 - spiral model
+  - documentation rquired after each loop
+  - little or no customer feedback 
 - rapid application development
 
 ![image](https://user-images.githubusercontent.com/105429/122206068-de02ac00-ce98-11eb-8158-5a2253bcdc7b.png)
