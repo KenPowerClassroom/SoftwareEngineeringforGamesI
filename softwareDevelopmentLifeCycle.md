@@ -152,3 +152,10 @@ Can stop early when we decide we have done enough
 Deliver what is needed
 
 "We didn't get what we asked for, but got what we needed"
+
+# Summary
+Waterfall: Waterfall is best suited for projects that have a linear and structured process, such as construction projects, where the scope and goals of the project are well-defined from the start and the goal is to simply carry out the specific tasks in the project plan with minimal changes or adaptations.
+
+Agile: Agile is best suited for projects that require frequent collaboration and adaptation, such as research projects, where the scope and goals of the project may change throughout the process and the goal is to quickly respond to customer needs and changing requirements.
+
+
