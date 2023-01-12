@@ -73,10 +73,11 @@ implemented. At each iteration, design modifications are made, and new functiona
 ![image](https://user-images.githubusercontent.com/105429/122206068-de02ac00-ce98-11eb-8158-5a2253bcdc7b.png)
 
 
-## contrast with Waterfall
+## Contrast with Waterfall
 
-- client/users can give feedback at each iteration
-- can deliver working code relatively quickly
+- can deal with unforseen risks
+- can deal with changing requirements
+- can deliver working software earlier
 - learnings in each iteration can improve design in the next iteration
 
 
@@ -129,7 +130,7 @@ WF has better utilisation of resources
   Specialists only present when needed
   iterations => rework
   
-Agile take smore time to set-up
+Agile take more time to set-up
 
 WF simplifies Architectural Consistency (agile evolves it)
 
@@ -138,7 +139,7 @@ WF simplifies Architectural Consistency (agile evolves it)
 (Efficient in short term)
 (Effective in long term)
 
-Agile has fewer internal work products
+Agile has fewer internal work products (documentation)
 
 Design change in WF means more already-done work products changing
 
