@@ -113,7 +113,8 @@ implemented. At each iteration, design modifications are made, and new functiona
 
 # Iterative vs Incremental
 
-![image](https://user-images.githubusercontent.com/105429/122209054-fde79f00-ce9b-11eb-86c5-27ca260639f8.png)
+![image](https://user-images.githubusercontent.com/105429/212074425-d42f3955-bcad-420e-910e-1319f256e589.png)
+
 
 
 # Agile vs Waterfall
