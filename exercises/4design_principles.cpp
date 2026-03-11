@@ -10,18 +10,16 @@ private:
     int t;  // turn count
 
 public:
-    int f(int dmg) {
+    void f(int dmg) {
         a = a - dmg;
         if (a < 0) a = 0;
-        if (a == 0) d = true;
-        return a;
+        if (a < 0) d = true;
     }
 
-    int g(int dmg) {
+    void g(int dmg) {
         xx = xx - dmg;
         if (xx < 0) xx = 0;
-        if (xx == 0) d = true;
-        return xx;
+        if (xx < 0) d = true;
     }
 
     void heal() {
